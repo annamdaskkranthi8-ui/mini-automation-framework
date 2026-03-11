@@ -1,3 +1,7 @@
 target/
 .idea/
 *.iml
+logs/
+screenshots/
+test-output/
+*.log
