@@ -22,7 +22,7 @@ public class LoginTest extends BaseTest {
         loginPage.openLoginPage();
         loginPage.login(username, password);
 
-        if (username.equals("locked_out_user")) {
+        if (username.equals("locked_outgit_user")) {
             Assert.assertTrue(loginPage.isErrorDisplayed(), "Error message not displayed");
         } else {
             Assert.assertTrue(productsPage.isProductsPageDisplayed(), "Products page not displayed");
