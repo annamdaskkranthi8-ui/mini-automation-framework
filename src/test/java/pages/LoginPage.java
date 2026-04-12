@@ -15,19 +15,26 @@ public class LoginPage extends BasePage {
     public void openLoginPage() {
         driver.get("https://www.saucedemo.com/");
     }
-    public void enterUsername(String user ) {
-        driver.findElement(username).sendKeys(user);
+    public void enterUsername(String user ) { getElement(username).sendKeys(user);
     }
-    public void enterPassword(String pass) {
-        driver.findElement(password).sendKeys(pass);
+    public void enterPassword(String pass) { getElement(password).sendKeys(pass);
     }
     public void clickLogin() {
-        driver.findElement(loginButton).click();
+        getElement(loginButton).click();
     }
     public void login(String user, String pass) {
         enterUsername(user);
         enterPassword(pass);
         clickLogin();
+    }
+
+    public boolean isErrorDisplayed() {
+        try {
+            waitForVisibility(By.xpath("//h3[@data-test='error']"));
+            return true;
+        } catch (Exception e) {
+            return false;
+        }
     }
 
 }

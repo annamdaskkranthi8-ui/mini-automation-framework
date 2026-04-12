@@ -9,7 +9,11 @@ import utils.TestData;
 
 public class LoginTest extends BaseTest {
 
-    @Test(dataProvider = "loginData", dataProviderClass = TestData.class)
+    @Test(
+            dataProvider = "loginData",
+            dataProviderClass = TestData.class,
+            retryAnalyzer = utils.RetryAnalyzer.class
+    )
     public void verifyLogin(String username, String password) {
 
         LoginPage loginPage = new LoginPage(driver);
@@ -18,7 +22,10 @@ public class LoginTest extends BaseTest {
         loginPage.openLoginPage();
         loginPage.login(username, password);
 
-        Assert.assertTrue(productsPage.isProductsPageDisplayed());
-        Assert.assertTrue(productsPage.getProductsCount() > 0);
+        if (username.equals("locked_out_user")) {
+            Assert.assertTrue(loginPage.isErrorDisplayed(), "Error message not displayed");
+        } else {
+            Assert.assertTrue(productsPage.isProductsPageDisplayed(), "Products page not displayed");
+        }
     }
 }

@@ -135,3 +135,111 @@
 2026-03-11 19:19:48 INFO  base.BaseTest - Launching browser: chrome
 2026-03-11 19:19:52 INFO  base.BaseTest - Browser launched and maximized
 2026-03-11 19:19:56 INFO  base.BaseTest - Browser closed
+2026-03-26 18:19:44 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:19:55 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:19:58 INFO  base.BaseTest - Browser closed
+2026-03-26 18:19:58 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:20:01 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:20:13 ERROR base.BaseTest - test failed: verifyLogin
+2026-03-26 18:20:14 INFO  base.BaseTest - Browser closed
+2026-03-26 18:20:14 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:20:16 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:20:18 INFO  base.BaseTest - Browser closed
+2026-03-26 18:30:39 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:30:43 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:30:45 INFO  base.BaseTest - Browser closed
+2026-03-26 18:30:45 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:30:47 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:30:48 INFO  base.BaseTest - Browser closed
+2026-03-26 18:30:48 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:30:50 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:30:52 INFO  base.BaseTest - Browser closed
+2026-03-26 18:33:36 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:33:40 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:33:42 INFO  base.BaseTest - Browser closed
+2026-03-26 18:33:42 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:33:43 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:33:45 INFO  base.BaseTest - Browser closed
+2026-03-26 18:33:45 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:33:46 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:33:48 INFO  base.BaseTest - Browser closed
+2026-03-26 18:52:57 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:53:01 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:53:03 INFO  base.BaseTest - Browser closed
+2026-03-26 18:53:03 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:53:05 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:53:07 INFO  base.BaseTest - Browser closed
+2026-03-26 18:53:07 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 18:53:08 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 18:53:10 INFO  base.BaseTest - Browser closed
+2026-03-26 23:42:22 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 23:42:28 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 23:42:31 INFO  base.BaseTest - Browser closed
+2026-03-26 23:42:31 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 23:42:33 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 23:42:35 INFO  base.BaseTest - Browser closed
+2026-03-26 23:42:35 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 23:42:38 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 23:42:41 INFO  base.BaseTest - Browser closed
+2026-03-26 23:47:20 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 23:47:24 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 23:47:27 INFO  base.BaseTest - Browser closed
+2026-03-26 23:47:27 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 23:47:29 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 23:47:31 INFO  base.BaseTest - Browser closed
+2026-03-26 23:47:31 INFO  base.BaseTest - Launching browser: chrome
+2026-03-26 23:47:33 INFO  base.BaseTest - Browser launched and maximized
+2026-03-26 23:47:35 INFO  base.BaseTest - Browser closed
+2026-04-12 11:28:34 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:28:41 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:28:44 INFO  base.BaseTest - Browser closed
+2026-04-12 11:28:44 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:28:47 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:28:49 INFO  base.BaseTest - Browser closed
+2026-04-12 11:28:49 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:28:51 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:28:53 INFO  base.BaseTest - Browser closed
+2026-04-12 11:33:17 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:33:23 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:33:28 INFO  base.BaseTest - Browser closed
+2026-04-12 11:33:28 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:33:31 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:33:33 INFO  base.BaseTest - Browser closed
+2026-04-12 11:33:33 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:33:35 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:33:37 INFO  base.BaseTest - Browser closed
+2026-04-12 11:39:19 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:39:22 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:39:26 INFO  base.BaseTest - Browser closed
+2026-04-12 11:39:26 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:39:27 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:39:29 INFO  base.BaseTest - Browser closed
+2026-04-12 11:39:30 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:39:31 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:39:33 INFO  base.BaseTest - Browser closed
+2026-04-12 11:59:01 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:59:05 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:59:18 INFO  base.BaseTest - Browser closed
+2026-04-12 11:59:18 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:59:20 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:59:33 ERROR base.BaseTest - test failed: verifyLogin
+2026-04-12 11:59:34 INFO  base.BaseTest - Browser closed
+2026-04-12 11:59:34 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:59:36 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 11:59:48 INFO  base.BaseTest - Browser closed
+2026-04-12 11:59:48 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 11:59:50 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 12:00:01 ERROR base.BaseTest - test failed: verifyLogin
+2026-04-12 12:00:04 INFO  base.BaseTest - Browser closed
+2026-04-12 12:00:04 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 12:00:05 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 12:00:07 INFO  base.BaseTest - Browser closed
+2026-04-12 12:01:10 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 12:01:14 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 12:01:18 INFO  base.BaseTest - Browser closed
+2026-04-12 12:01:18 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 12:01:21 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 12:01:24 INFO  base.BaseTest - Browser closed
+2026-04-12 12:01:24 INFO  base.BaseTest - Launching browser: chrome
+2026-04-12 12:01:25 INFO  base.BaseTest - Browser launched and maximized
+2026-04-12 12:01:27 INFO  base.BaseTest - Browser closed

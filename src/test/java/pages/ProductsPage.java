@@ -16,7 +16,7 @@ public class ProductsPage extends BasePage {
     private By cartIcon =  By.className("shopping_cart_link");
 
     public boolean isProductsPageDisplayed() {
-        return driver.getTitle().contains("Products");
+        waitForVisibility(productsTitle);return driver.findElement(productsTitle).isDisplayed();
     }
 
     public int getProductsCount() {
